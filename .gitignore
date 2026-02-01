@@ -1,0 +1,13 @@
+venv/
+src_phantom/config.py
+vault/
+**/vault/
+__pycache__/
+*.py[cod]
+*$py.class
+Thumbs.db
+desktop.ini
+.DS_Store
+*.exe
+*.bin
+*.out

@@ -1,0 +1,14 @@
+# For offline text-to-speech conversion
+pyttsx3
+
+# For camera access and image processing
+opencv-python
+
+# For automated screenshots and screen control
+pyautogui
+
+# for a beautiful print
+rich
+
+# you can have a facer module 
+mimesis
