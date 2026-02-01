@@ -12,3 +12,5 @@ rich
 
 # you can have a facer module 
 mimesis
+
+requests
