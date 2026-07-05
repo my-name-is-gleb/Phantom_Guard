@@ -42,6 +42,7 @@ def screenshot_loop():
 
 def monitor_typing(target_password):
     log_event(f"Начат мониторинг ввода для пароля: {target_password}")
+    global verification
     verification = None
     __for_loop = 0
     while __for_loop <= 6:
