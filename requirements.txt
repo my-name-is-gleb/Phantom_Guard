@@ -10,7 +10,16 @@ pyautogui
 # for a beautiful print
 rich
 
-# you can have a facer module 
+# you can have a facer library
 mimesis
 
+
+# Working with the network
 requests
+
+
+# for chess and possibly other games
+pygame
+
+# for chees rules
+python-chess

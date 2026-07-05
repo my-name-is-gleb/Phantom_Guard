@@ -1,0 +1,29 @@
+{
+    "admin": {
+        "password": "098765"
+    },
+    "Nina": {
+        "password": "45587",
+        "level": 3
+    },
+        "Inna": {
+        "password": "0071",
+        "level": 3
+    },
+    "test_user": {
+        "password": "password123",
+        "level": 2
+    },
+        "Andrey": {
+        "password": "5578",
+        "level": 2
+    },
+        "guest": {
+        "password": "123",
+        "level": 1
+    },
+        "Vova": {
+        "password": "19764",
+        "level": 1
+    }
+}

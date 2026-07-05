@@ -1,5 +1,5 @@
 venv/
-src_phantom/config.py
+PHANTOM_GUARD_V1/src_phantom/config.py
 vault/
 **/vault/
 __pycache__/
